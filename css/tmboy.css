@@ -1,0 +1,61 @@
+img{
+    max-width: 100%;
+}
+
+.servico-titulo{
+    font-family: "Cooper Black", Roboto, Arial;
+    color: #ffcc00;
+    font-size: 50px;
+    float: left;
+}
+
+.slogan{
+    font-family: "Cooper Black", Roboto, Arial;
+    color: #ffcc00;
+    font-size: 30px;
+    float: left;
+}
+
+.logo{
+    float: left;
+}
+
+.atendentes{
+    float: left;
+}
+
+.texto-home {
+    text-align: center;
+    height: 282px;
+    padding-top: 80px;
+}
+
+.menu li {
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    background:#019af7;
+    font-size: 16px;
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.menu li:hover {
+    color:#000000;
+    background-color:#ffffff;
+    transition: 0.3s ease 0s all;
+
+}
+
+.menu {
+    padding-left: 491px;
+}
+
+.margin_top_30{
+    margin-top: 30px;
+}
